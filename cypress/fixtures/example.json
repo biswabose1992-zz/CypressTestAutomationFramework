@@ -1,0 +1,17 @@
+{
+
+  "devicename": "Nokia Lumia 1020",
+  "totalqty":"2",
+  "Totalamount": "$698.00",
+  "Firstname": "firstname",
+  "Lastname": "lastname",
+  "Date": "5",
+  "Month": "4",
+  "Year":"1915",
+  "Company": "Companyxyz",
+  "Password":"passxyz",
+  "Confirmpassword": "passxyz",
+  "loginusers": [ { "test1@xyz.com":"test1"},{ "test2@xyz.com":"test2"},{ "test3@xyz.com":"test3"}]
+    
+
+}

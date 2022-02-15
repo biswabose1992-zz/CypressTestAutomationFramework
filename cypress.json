@@ -1,0 +1,19 @@
+{
+  "defaultCommandTimeout": 8000,
+
+  "env": {
+    
+    "login_url": "https://demo.nopcommerce.com/"
+  
+  },
+  
+  "projectId": "ttf6zn",
+ 
+  "retries": {
+
+    "runMode": 0,
+    "openMode": 0
+  
+  }
+
+}
